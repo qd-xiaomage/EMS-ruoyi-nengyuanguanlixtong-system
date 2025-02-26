@@ -17,6 +17,7 @@
 
 
 三、数字大屏展示
+
 ![2M以内文件](https://github.com/user-attachments/assets/75c9a32e-06fc-4f1a-b347-806293a8e3bc)
 
 
@@ -24,7 +25,7 @@
 
 
 
-![0002](https://github.com/user-attachments/assets/2071096a-a672-403e-989a-99183efef630)
+![001](https://github.com/user-attachments/assets/7d974e5e-1948-4c65-bd37-ee6d633738fd)
 
 
 
